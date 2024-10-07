@@ -1,1 +1,1 @@
-# task_6
+# Tasks 6 and 7
